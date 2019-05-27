@@ -5,7 +5,7 @@ repositories{
 }
 
 dependencies {
-    compile 'com.github.derohimat:android-transcoder:0.4.1'
+    compile 'com.github.shts:android-transcoder:v0.2.0'
     compile 'com.googlecode.mp4parser:isoparser:1.1.21'
 }
 
