@@ -5,7 +5,7 @@ repositories{
 }
 
 dependencies {
-    compile 'com.github.refurbify:android-transcoder:v1.0.1-VRM'
+    compile 'com.github.refurbify:android-transcoder:v1.0.2-VRM'
     compile 'com.googlecode.mp4parser:isoparser:1.1.21'
 }
 
